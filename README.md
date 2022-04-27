@@ -53,7 +53,7 @@ Next, I added P&G stock price onto the same graph and answered the following que
 - In 1983 CocaCola's stock was going up in average, and PG's stock was going down
 - Generally,CocaCola's stock had a lower price across 1970-2010 period
 
-##**3.Data Visualization for a specific period**
+## **3.Data Visualization for a specific period**
 
 Instead of looking at the plot across the entire date range, I wanted to see what’s happening between 1995-2005 and answer the following questions:
 1. Which stock price fell the most right after the tech bubble of March 2000?
@@ -72,7 +72,7 @@ Instead of looking at the plot across the entire date range, I wanted to see wha
 -	IBM had the biggest delta between max and min stock prices in 1995-2005
 -	IBM's and GE's stock prices seem to be the most correlated
 
-##**4.Monthly Trend Analysis**
+## **4.Monthly Trend Analysis**
 
 I wanted to see if there are any monthly patterns (i.e. consistently higher/lower prices at various months of the year). To do for each company, I essentially wanted to compare “mean” by month vs the overall mean across the entire date range:
 - I found find overall average stock price for each dataset and consider it as 100%
